@@ -12,6 +12,16 @@ Shop.io is an online clothing store equipped with full ecommerce functionality. 
 - Session persistence (local storage and apollo-cache) 
 - User checkout (Stripe) and email confirmations (Mail Trap)
 
+## How to run the application
+
+1. Install Node.js from the https://nodejs.org/en/
+2. Clone the project by running `$git clone https://github.com/RahulAggarwal1016/Chatter.git`
+3. Cd and run the command `$npm i` in the backend folder to install all the required dependencies and packages (listed below) 
+4. Run `$npm run dev` to initiate the backend server (should open at http:/localhost:4444)
+5. Cd and run the command `$npm i` in the frontend folder to install all the required dependencies and packages (listed below) 
+6. Run `$npm run dev` to initiate the client side application (should open at http://localhost:7777)
+7. You're all done!
+
 ## Technologies and Services Used 
 
 - **Frontend:** Next.js, React, Apollo-client, Cloudinary, Mail Trap

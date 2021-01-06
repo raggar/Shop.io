@@ -10,6 +10,7 @@ type User {
     email: String!
     permission: [Permission!]!
     cart: [CartItem!]!
+    orders: [OrderItem]
 }
 
 type Mutation {

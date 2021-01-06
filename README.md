@@ -2,14 +2,14 @@
 
 ## Project Description
 
-Shop.io is an online clothing store equipped with full ecommerce functionality. For example, users start by either logging in or regsitering an account in order to use the service. They are then directed to the main page where they can search and browse for items they wish to buy. Each item listed on the site is community submitted, meaning that anybody with a valid account can add to the market place. For those looking, to simply make a purchase they can add items to their cart and checkout once ready. After entering in valid payment information (verified by Stripe), users recieve an email recapping their order and confirm their purchasing (all orders will be displayed on the "orders  page). 
+Shop.io is an online clothing store equipped with full ecommerce functionality. For example, users start by either logging in or regsitering an account in order to use the service. They are then directed to the main page where they can search and browse for items they wish to buy. Each item listed on the site is community submitted, meaning that anybody with a valid account can add to the market place. For those looking, to simply make a purchase they can add items to their cart and checkout once ready. After entering in valid payment information (verified by Stripe), users recieve an email recapping their order and confirm their purchasing (displayed in "orders" page).
 
 ## Features 
 
 - Account registration and authentication (JWT Tokens and Password Hashing)
-- Adding items to users cart
+- Able to persistently add items to one's cart
+- Ability to delete and update items in the marketplace
 - Session persistence (local storage and apollo-cache) 
-- Ability to reset passwords
 - User checkout (Stripe) and email confirmations (Mail Trap)
 
 ## Technologies and Services Used 

@@ -14,8 +14,8 @@ Shop.io is an online clothing store equipped with full ecommerce functionality. 
 
 ## Technologies and Services Used 
 
-- Frontend: Next.js, React, Apollo-client, Cloudinary, Mail Trap
-- Backend: Node.js, Express.js (GraphQL-Yoga), GraphQL, Prisma
+- **Frontend:** Next.js, React, Apollo-client, Cloudinary, Mail Trap
+- **Backend:** Node.js, Express.js (GraphQL-Yoga), GraphQL, Prisma
 
 ## External Packages - Frontend
 

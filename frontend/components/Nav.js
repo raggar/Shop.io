@@ -22,9 +22,6 @@ const Nav = () => (
             <Link href="/orders">
               <a>Orders</a>
             </Link>
-            <Link href="/me">
-              <a>Account</a>
-            </Link>
             <Mutation mutation={TOGGLE_CART_MUTATION}>
               {(toggleCart) => (
                 <button onClick={toggleCart}>

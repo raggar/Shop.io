@@ -1,11 +1,11 @@
 import withApollo from 'next-with-apollo';
 import ApolloClient from 'apollo-boost';
-import { endpoint, prodEndpoint } from '../config';
+import { server, prodEndpoint } from '../config';
 import { LOCAL_STATE_QUERY } from '../components/Cart';
 
 function createClient({ headers }) {
   return new ApolloClient({
-    uri: process.env.NODE_ENV === 'development' ? endpoint : prodEndpoint,
+    uri: process.env.NODE_ENV === 'development' ? server : prodEndpoint,
     request: (operation) => {
       operation.setContext({
         fetchOptions: {

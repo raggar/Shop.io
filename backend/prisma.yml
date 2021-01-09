@@ -1,4 +1,4 @@
-endpoint: https://shopio-production-89c9f57600.herokuapp.com/shopio-prod/prod
+endpoint: ${env:PRISMA_ENDPOINT}
 datamodel: datamodel.graphql
 secret: ${env:PRISMA_SECRET}
 hooks:

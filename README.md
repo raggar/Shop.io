@@ -69,7 +69,7 @@ Shop.io is an online clothing store equipped with full ecommerce functionality. 
 - "prisma-binding": "2.1.6",
 - "stripe": "^6.12.1"
 
-# Image Gallery 
+## Image Gallery 
 
 ![Sign in](https://user-images.githubusercontent.com/35639417/104136244-e9d6c900-5362-11eb-9aea-fbe670f9e1ef.png)
 ![Shop](https://user-images.githubusercontent.com/35639417/104136245-e9d6c900-5362-11eb-940b-d41e30203d26.png)

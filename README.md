@@ -1,5 +1,13 @@
 # Shop.io
 
+## Image Gallery 
+
+![Sign in](https://user-images.githubusercontent.com/35639417/104136244-e9d6c900-5362-11eb-9aea-fbe670f9e1ef.png)
+![Shop](https://user-images.githubusercontent.com/35639417/104136245-e9d6c900-5362-11eb-940b-d41e30203d26.png)
+![Upload](https://user-images.githubusercontent.com/35639417/104136246-ea6f5f80-5362-11eb-87cc-5224e5b5ba9c.png)
+![Checkout](https://user-images.githubusercontent.com/35639417/104136243-e93e3280-5362-11eb-817b-5abbb2bd64fb.png)
+![Payment](https://user-images.githubusercontent.com/35639417/104136242-e93e3280-5362-11eb-8d08-0b7e09d13d89.png)
+
 ## Project Description
 
 Shop.io is an online clothing store equipped with full ecommerce functionality. Users start by either logging in or registering an account in order to use the service. They are then directed to the main page where they can search and browse for items they wish to buy. Each item listed on the site is community submitted, meaning that anybody with a valid account can add to the marketplace. For those looking to simply make a purchase, they can add items to their cart and checkout once ready. After entering in valid payment information, users receive an email recapping their order and confirm their purchasing.
@@ -68,11 +76,3 @@ Shop.io is an online clothing store equipped with full ecommerce functionality. 
 - "prisma": "1.17.1",
 - "prisma-binding": "2.1.6",
 - "stripe": "^6.12.1"
-
-## Image Gallery 
-
-![Sign in](https://user-images.githubusercontent.com/35639417/104136244-e9d6c900-5362-11eb-9aea-fbe670f9e1ef.png)
-![Shop](https://user-images.githubusercontent.com/35639417/104136245-e9d6c900-5362-11eb-940b-d41e30203d26.png)
-![Upload](https://user-images.githubusercontent.com/35639417/104136246-ea6f5f80-5362-11eb-87cc-5224e5b5ba9c.png)
-![Checkout](https://user-images.githubusercontent.com/35639417/104136243-e93e3280-5362-11eb-817b-5abbb2bd64fb.png)
-![Payment](https://user-images.githubusercontent.com/35639417/104136242-e93e3280-5362-11eb-8d08-0b7e09d13d89.png)
